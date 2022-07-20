@@ -6,8 +6,8 @@ available reference genomes.
 ## Cloning the directory
 
 ```
-git clone https://github.com/guilhermesena1/phylo.git
-cd phylo
+git clone https://github.com/guilhermesena1/phylogenetic-by-genome.git
+cd  phylogenetic-by-genome
 ```
 
 ## Compiling the code
