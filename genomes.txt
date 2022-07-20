@@ -1,0 +1,7 @@
+chinese_hamster	genomes/criGriChoV2.fa
+cat	genomes/felCat9.fa
+gorilla	genomes/gorGor6.fa
+human	genomes/hg38.fa
+mouse	genomes/mm39.fa
+alpaca	genomes/vicPac2.fa
+whale genomes/balAcu1.fa
